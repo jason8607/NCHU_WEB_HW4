@@ -1,0 +1,132 @@
+body{
+	background-color:lightgrey;
+}
+
+#sitebody{
+	font-size:13px;
+}
+#head{
+	font-size:20px;
+	height:300px;
+	text-align:center;
+	line-height:10px;
+	width: 100vw;
+}
+
+#content{
+	text-align: center;
+	width:100vw;
+	padding:15px 0px;
+}
+#title{
+	position:relative; left:425px; top: 0px; 
+}
+#tt{
+	text-align:center; 
+	font-size:50px;
+	display:none
+}
+
+#Story{	
+	background-color:#f44336;
+    border:1px solid;
+    display: block;
+	width: 300px;
+	height: 40px;
+	line-height: 35px;
+	text-align: center;	
+	border-radius:14px;
+	color: #000000;
+	font-weight: bold;
+	font-size: 20px;
+	border-style:solid;
+	margin-left: 20px;
+	position:relative; left:600px; top: 0px; 
+}
+#Writer{
+	background-color:#ff8c00;
+    border:1px solid;
+	display: block;
+	width: 300px;
+	height: 40px;
+	line-height: 35px;
+	text-align: center;	
+	border-radius:14px;
+	color: #000000;
+	font-weight: bold;
+	font-size: 20px;
+	border-style:solid;
+	margin-left: 20px;
+	position:relative; left:600px; top: 0px; 
+}
+#Chapter{
+	background-color:#FFC457;
+    border:1px solid;
+    display: block;
+	width: 300px;
+	height: 40px;
+	line-height: 35px;
+	text-align: center;	
+	border-radius:14px;
+	color: #000000;
+	font-weight: bold;
+	font-size: 20px;
+	border-style:solid;
+	margin-left: 20px;
+	position:relative; left:600px; top: 0px; 
+}
+#Character{
+	background-color:#AACA70;
+    border:1px solid;
+    display: block;
+	width: 300px;
+	height: 40px;
+	line-height: 35px;
+	text-align: center;	
+	border-radius:14px;
+	color: #000000;
+	font-weight: bold;
+	font-size: 20px;
+	border-style:solid;
+	margin-left: 20px;
+	position:relative; left:600px; top: 0px; 
+}
+
+#Favorite{
+	background-color:#7CCDEA;
+    border:1px solid;
+    display: block;
+	width: 300px;
+	height: 40px;
+	line-height: 35px;
+	text-align: center;	
+	border-radius:14px;
+	color: #000000;
+	font-weight: bold;
+	font-size: 20px;
+	border-style:solid;
+	margin-left: 20px;
+	position:relative; left:600px; top: 0px; 
+}
+
+#About{
+	background-color:#ba55d3;
+    border:1px solid;
+    display: block;
+	width: 300px;
+	height: 40px;
+	line-height: 35px;
+	text-align: center;	
+	border-radius:14px;
+	color: #000000;
+	font-weight: bold;
+	text-decoration: none;
+	font-size: 20px;
+	border-style:solid;
+	margin-left: 20px;
+	position:relative; left:600px; top: 0px; 
+}
+
+#m11,#m22,#m33,#m44,#m55,#div1,#div2,#div3,#div4,#div5,#div6,#div7,#div8,#div9,#f1,#f2,#f3,#aa{
+	display:none;
+}
